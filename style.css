@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+
+}
+
+.slides{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.product-image{
+    height: 250px;
+    object-fit: contain;
+}
+
+.container h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 2.0rem;
+}
+
+.material-symbols-outlined{
+    margin-top: 10px;
+}
+.container-fluid{
+    margin-left: 20px;
+    gap: 10px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.btn-warning{
+    margin: 10px;
+}
+
+.btn-primary{
+    margin: 10px;
+}
+
